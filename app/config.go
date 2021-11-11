@@ -73,3 +73,4 @@ func NewConfigFromFlags() simulation.Config {
 		AllInvariants:      FlagAllInvariantsValue,
 	}
 }
+
